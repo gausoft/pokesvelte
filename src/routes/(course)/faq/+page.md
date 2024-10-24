@@ -56,7 +56,7 @@ Le contenu de PokéSvelte est open-source, tout le monde peut s'en servir gratui
 ## Comment faire si je suis bloqué•e ?
 
 Il existe une [correction exercice par
-exercice](https://github.com/bleucitron/pokesvelte/pull/1/commits).
+exercice](https://github.com/bleucitron/pokesvelte/compare/start...end).
 
 Je vous recommande d'essayer de vous en servir le moins possible, mais ça peut toujours débloquer
 les situations désespérées.
