@@ -71,7 +71,7 @@ Aucun comparatif entre les syntaxes Svelte 4 et Svelte 5 n'est présent dans ce 
 toujours vous référer à la [documentation
 officielle](https://svelte.dev/docs/svelte/v5-migration-guide) si c'est ce que vous cherchez.
 
-## Svelte 5 ? Mais c'est même pas encore officiellement disponible !
+## Svelte 5 ? Mais ça vient à peine de sortir !!!
 
 C'est vrai. Mais Svelte 5 est en RFC depuis [avril
 2024](https://svelte.dev/blog/svelte-5-release-candidate), ce qui a permis à bon nombre de personnes
