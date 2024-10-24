@@ -31,9 +31,9 @@ Il est probable que la réponse à cette question se trouve [quelque part sur ce
 site](/00_introduction/02_svelte_and_sveltekit), mais en résumé il s'agit de deux outils
 complémentaires utiles pour construire des applications web relativement simplement.
 
-[Svelte](svelte.dev) permet de construire des briques d'interface sous forme de composants.
+[Svelte](svelte.dev/svelte) permet de construire des briques d'interface sous forme de composants.
 
-[SvelteKit](kit.svelte.dev) permet lui d'organiser ces briques en tant que pages d'une application.
+[SvelteKit](svelte.dev/kit) permet lui d'organiser ces briques en tant que pages d'une application.
 
 ## Y a t'il des préquis à avoir pour suivre ce tutoriel ?
 
@@ -69,17 +69,16 @@ Ce tutoriel traite uniquement de la syntaxe Svelte 5.
 
 Aucun comparatif entre les syntaxes Svelte 4 et Svelte 5 n'est présent dans ce tutoriel. Vous pouvez
 toujours vous référer à la [documentation
-officielle](https://svelte-5-preview.vercel.app/docs/introduction) si c'est ce que vous cherchez.
+officielle](https://svelte.dev/docs/svelte/v5-migration-guide) si c'est ce que vous cherchez.
 
 ## Svelte 5 ? Mais c'est même pas encore officiellement disponible !
 
 C'est vrai. Mais Svelte 5 est en RFC depuis [avril
-2024](https://svelte.dev/blog/svelte-5-release-candidate), ce qui signifie que la syntaxe et l'API
-sont en grande partie sanctuarisées. De légers changements seront peut-être présents dans la version
-5.0 lorsqu'elle sera publiée, le contenu de ce tutoriel sera alors modifié en conséquence.
+2024](https://svelte.dev/blog/svelte-5-release-candidate), ce qui a permis à bon nombre de personnes
+de tester les nouvelles syntaxes et APIs.
 
-Je tiens tout de même à préciser qu'à l'heure où j'écris ces lignes (22:11), je n'ai pas eu encore
-l'occasion de pratiquer Svelte 5 en "conditions réelles".
+Je tiens tout de même à préciser qu'à l'heure où j'écris ces lignes (octobre 2024), je n'ai pas
+encore eu l'occasion de pratiquer Svelte 5 sur un projet d'envergure.
 
 ## Pourquoi ce tutoriel commence par parler de SvelteKit, et pas Svelte ?
 
